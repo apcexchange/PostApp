@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeekTen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="id">id</string>
+    <string name="add_comment">add comment</string>
+    <string name="no_internet">no internet</string>
+    <string name="post_title">post title</string>
+    <string name="post_body">post body</string>
+    <string name="post">post</string>
+    <string name="comments">comment</string>
+</resources>
